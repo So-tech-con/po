@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: orange;
+    font-size: 70px;
+    color: blue;
+}
+
+#image1 {
+    height: 390px;
+}
+#image2 {
+    height: 390px;
+}
+#p2 {
+  text-align: center;
+    background: orange;
+    font-size: 70px;
+    color: blue;  
+}
+#p3 {
+    text-align: center;
+    background: orange;
+    font-size: 70px;
+    color: blue; 
+    }
+#image3 {
+    height: 390px;
+}
